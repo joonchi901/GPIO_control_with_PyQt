@@ -1,1 +1,1 @@
-# Train_control_with_PyQt
+# GPIO_control_with_PyQt
